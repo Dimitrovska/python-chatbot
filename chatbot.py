@@ -66,7 +66,7 @@ pairs = [
     ],
     [
         r"bye",
-        ["Bye for now. See you soon :) ", "It was nice talking to you. See you soon :)"]
+        ["Bye for now. See you soon :) "]
     ],
     [
         r"(.*)",
